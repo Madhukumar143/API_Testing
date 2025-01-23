@@ -1,0 +1,124 @@
+{
+  "Students": [
+    {
+      "id": "1",
+      "name": "arun",
+      "gender": "Male",
+      "Phone": 8296790418,
+      "Subjects": [
+        "maths",
+        "english",
+        "physics"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Manoj",
+      "gender": "Male",
+      "Phone": 8289890418,
+      "Subjects": [
+        "Java",
+        "Python",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Harshi",
+      "gender": "Female",
+      "Phone": 6333420418,
+      "Subjects": [
+        "Maths",
+        "DSA",
+        "Frontend"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "kalyan",
+      "gender": "Male",
+      "Phone": 6435779418,
+      "Subjects": [
+        "Web Test",
+        "Botny",
+        "Chemistry"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Manogna",
+      "gender": "female",
+      "Phone": 6367790418,
+      "Subjects": [
+        "data Science",
+        "Data Analytics",
+        "Science"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "jashwanth",
+      "gender": "Male",
+      "Phone": 82636790418,
+      "Subjects": [
+        "java",
+        "Frontend",
+        "python"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "tillu",
+      "gender": "Male",
+      "Phone": 8745763524,
+      "Subjects": [
+        "QA",
+        "Back-end",
+        "physics"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "til",
+      "gender": "Male",
+      "Phone": 8745763524,
+      "Subjects": [
+        "QA",
+        "Back-end",
+        "physics"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Maharshi",
+      "gender": "Female",
+      "Phone": 8663790418,
+      "Subjects": [
+        "Physics",
+        "Selenium",
+        "Zoology"
+      ]
+    },
+    {
+      "id": "e1d9",
+      "name": "DJ",
+      "gender": "Male",
+      "Phone": 6527268278,
+      "Subjects": [
+        "Back-end",
+        "physics"
+      ]
+    },
+    {
+      "id": "0b9c",
+      "name": "Chris ayle",
+      "gender": "Male",
+      "Phone": 12345678,
+      "Subjects": [
+        "maths",
+        "english",
+        "physics"
+      ]
+    }
+  ]
+}
